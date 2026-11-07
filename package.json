@@ -1,0 +1,19 @@
+{
+  "name": "soikat-developer-pro-code-studio",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.26.10",
+    "js-beautify": "^1.15.4",
+    "prettier": "^3.5.3",
+    "webcrack": "^2.14.0"
+  },
+  "devDependencies": {
+    "vercel": "^41.4.1"
+  },
+  "description": "Multi-language code detection, formatting and best-effort recovery studio"
+}
